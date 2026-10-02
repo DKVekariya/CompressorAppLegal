@@ -1,7 +1,4 @@
-# GitHub Pages config for the public legal pages.
-# Enable: GitHub repo -> Settings -> Pages -> Source: "Deploy from a branch"
-#         -> Branch: main, Folder: /docs
-# Pages are then served at https://dkvekariya.github.io/CompressorApp/
+
 title: CompressorApp
 description: Legal information for CompressorApp
 theme: jekyll-theme-minimal
