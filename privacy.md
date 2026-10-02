@@ -85,6 +85,6 @@ We may update this Privacy Policy from time to time. The "Last updated" date abo
 
 Questions or concerns about this policy? Open a request on our support page:
 
-**[github.com/DKVekariya/CompressorApp/issues](https://github.com/DKVekariya/CompressorApp/issues)**
+**[github.com/DKVekariya/CompressorAppLegal/issues](https://github.com/DKVekariya/CompressorAppLegal/issues)**
 
 Please note that GitHub issues are **public**. Do not include personal information, photos, videos, or other private files in your message. If you need to share something private, say so in the issue and we will arrange another way to continue.
